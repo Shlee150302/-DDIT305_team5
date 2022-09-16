@@ -29,6 +29,7 @@ public enum HomeMenu {
         this.menuString = menuString;
 
         //주석입니다...!!!!코드 받았다ㅜ굥
+        
     }
 
     public int getMenu() {
