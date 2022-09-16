@@ -27,6 +27,9 @@ public enum HomeMenu {
     HomeMenu(int menu, String menuString) {
         this.menu = menu;
         this.menuString = menuString;
+
+        //주석입니다...!!!!코드 받았다ㅜ굥
+        
     }
 
     public int getMenu() {
@@ -46,7 +49,7 @@ public enum HomeMenu {
         throw new MenuNotFoundException("선택하신 메뉴가 없습니다.");
     }
     public void display(Scanner scanner) {
-
+        // asdfasdfasdfa
     }
 
 }
