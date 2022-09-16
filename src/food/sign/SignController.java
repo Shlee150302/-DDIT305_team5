@@ -7,7 +7,9 @@ public class SignController {
 
 	private static SignController instance = new SignController();
     public static SignController getInstance() {
+    	
         return instance;
+        // 이건 주석임 
     }
     private SignController() {}
 
