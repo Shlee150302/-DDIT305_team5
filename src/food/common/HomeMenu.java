@@ -46,7 +46,7 @@ public enum HomeMenu {
         throw new MenuNotFoundException("선택하신 메뉴가 없습니다.");
     }
     public void display(Scanner scanner) {
-
+// asdfasdfasd
     }
 
 }
